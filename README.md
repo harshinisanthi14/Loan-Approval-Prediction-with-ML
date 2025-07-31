@@ -27,7 +27,7 @@ scikit-learn for machine learning models
 matplotlib and seaborn for data visualization
 Gradio for creating the app interface.
 ## Results
-he final model achieved an accuracy of 91%, effectively predicting loan approvals based on the input features. The following models were trained and evaluated:
+The final model achieved an accuracy of 91%, effectively predicting loan approvals based on the input features. The following models were trained and evaluated:
 
 Logistic Regression
 Decision Tree Classifier
